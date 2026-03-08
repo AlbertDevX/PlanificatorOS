@@ -31,6 +31,6 @@
 
 Dado que es un proyecto puramente estático (Vanilla), no necesitas instalar dependencias de Node.js ni configurar servidores de desarrollo complejos. **futuramente en produccion**
 
-1. **Clonar el repositorio:** (si guatas hacerlo, al final es un proyecto open-source)
+1. **Clonar el repositorio:** (si gustas hacerlo, al final es un proyecto open-source)
    ```bash
    git clone [https://github.com/AlbertDevX/PlanificatorOS.git](https://github.com/AlbertDevX/PlanificatorOS.git)
