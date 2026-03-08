@@ -22,7 +22,7 @@
 ## Tecnologías Utilizadas
 
 * **Gadgets** Incorporacion de eventos con electronica.
-* **Gadgets** Diseño intuitivo.
+* **GUI/UI** Diseño intuitivo.
 * **Configs** facilidad al configurar.
 
 ---
